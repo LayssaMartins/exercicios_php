@@ -1,16 +1,15 @@
-#📚 Aulas e Exercícios envolvendo Programação Web
+📚 Aulas e Exercícios de Programação Web
 Este repositório foi criado para armazenar e organizar os exercícios práticos desenvolvidos durante as aulas de programação web. O conteúdo principal é focado em PHP, com a prática de manipulação de dados e interação entre o frontend e o backend.
 
 📁 Estrutura do Repositório
 Cada pasta dentro deste repositório representa um conjunto de exercícios ou um módulo de aula. A estrutura é organizada da seguinte forma:
 
 /aulasprogramaweb
-|-- aula4/
-|-- exer1/
-|-- exer2/
-|-- exer3/
-|-- exer4/
-`-- README.md
+├── aula4/
+├── exer1/
+├── exer2/
+├── exer3/
+└── exer4/
 Você pode navegar em cada pasta para encontrar os arquivos HTML, PHP e JSON correspondentes a cada exercício.
 
 🚀 Sobre os Exercícios
