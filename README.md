@@ -1,4 +1,4 @@
-# 📚 Aulas e Exercícios de Programação Web
+# 📚 Aulas e Exercícios - *PHP*
 
 Este repositório foi criado para armazenar e organizar os **exercícios práticos desenvolvidos durante as aulas de programação web**.  
 O conteúdo principal é focado em **PHP**, com a prática de manipulação de dados e interação entre **frontend e backend**.
