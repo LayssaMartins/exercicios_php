@@ -10,14 +10,13 @@ O conteúdo principal é focado em **PHP**, com a prática de manipulação de d
 Cada pasta dentro deste repositório representa um conjunto de exercícios ou um módulo de aula.  
 A estrutura é organizada da seguinte forma:
 
-/aulasprogramaweb
-│-- aula4/
-│-- exer1/
-│-- exer2/
-│-- exer3/
-│-- exer4/
-└-- README.md
-
+aulasprogramaweb/
+├── aula4/
+├── exer1/
+├── exer2/
+├── exer3/
+├── exer4/
+└── README.md
 
 Você pode navegar em cada pasta para encontrar os arquivos **HTML, PHP e JSON** correspondentes a cada exercício.
 
